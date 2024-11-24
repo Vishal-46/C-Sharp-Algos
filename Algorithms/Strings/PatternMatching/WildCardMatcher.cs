@@ -1,5 +1,4 @@
 using System;
-
 namespace Algorithms.Strings.PatternMatching;
 
 /// <summary>
